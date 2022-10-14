@@ -1,6 +1,16 @@
 # About Me!
 Hey there! I'm a Java Full-stack web developer looking for my first role as a software engineer. Interested in a company dedicated to employee growth and development!
 
+## Projects:
+### NASApp ![image](https://user-images.githubusercontent.com/33764283/195911483-789ea84f-38c4-42b4-beeb-a641f9b5b3e9.png)
+
+Generate random photos from the NASA APOD API!
+Check out the app live on Heroku:
+This is a heroku hobby project so please give it 10-20s for the cold start! https://nasa-apod-photos.herokuapp.com/
+
+### Integer To Roman Numeral ![image](https://user-images.githubusercontent.com/33764283/195914205-87969bbb-f4b3-4137-8f78-1ba65270bb09.png)
+This is a REST service that converts an integer into a roman numeral. It provides a webpage with a form that consumes the roman numeral service.
+https://integer-to-roman-numeral.herokuapp.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinscottbatchelor) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20072191) 
