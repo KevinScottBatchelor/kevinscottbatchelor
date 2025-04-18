@@ -1,7 +1,7 @@
 # About Me!! ![kevin_avatar_icon](https://user-images.githubusercontent.com/33764283/195919908-10921827-bb64-48de-87cf-1154429201be.png)
 
 
-Hey there! I'm a Java Full-stack web developer looking for my first role as a software engineer. Interested in a company dedicated to employee growth and development!
+Hey there! I'm a Java Full-stack web developer looking for a senior role as a software engineer. Interested in a company dedicated to employee growth and development!
 
 ## Projects:
 ### NASApp ![image](https://user-images.githubusercontent.com/33764283/195911483-789ea84f-38c4-42b4-beeb-a641f9b5b3e9.png)
